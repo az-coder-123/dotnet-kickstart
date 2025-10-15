@@ -1,0 +1,12 @@
+using System;
+
+namespace {PROJECT_NAME}
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World from {PROJECT_NAME}!");
+        }
+    }
+}
